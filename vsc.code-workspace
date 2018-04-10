@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "c1_first_app",
+			"name": "c1_first_app"
+		},
+		{
+			"path": "c3_add_interactivity"
+		},
+		{
+			"path": "c4_widget_framework"
+		}
+	],
+	"settings": {}
+}
