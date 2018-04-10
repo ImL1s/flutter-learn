@@ -9,6 +9,9 @@
 		},
 		{
 			"path": "c4_widget_framework"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {}
